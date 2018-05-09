@@ -1,0 +1,18 @@
+Down the rabbit hole.
+
+🐍 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚁𝚎𝚙𝚛𝚘𝚍𝚞𝚌𝚒𝚋𝚕𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝙴𝚝𝚑𝚎𝚛𝚙𝚊𝚍!
+
+⭐ We will use this Etherpad to log in discussions, asks questions, and add tips for other attendees of the workshop
+
+Remember to choose your preffered colour and add your name on the right hand side of this pad  ➡️
+
+As this workshop is run as part of PyCon 2018 this Etherpad and its content adhere to PyCon's code of conduct: https://us.pycon.org/2018/about/code-of-conduct/
+
+The data we will use can be downloaded from https://drive.google.com/drive/folders/1b2B0KWS0UAVQqFgzx2R2qMNeiiB98lMe?usp=sharing
+
+The repository with all the workshop materials can be found at https://github.com/trallard/ReproduciblePython
+
+
+Scripts only: https://drive.google.com/drive/folders/17UPqeTbhByFSeue11W-tXVjkbVqfQDGc?usp=sharing
+
+You can follow the slides at: http://bitsandchips.me/Talks/PyCon.html 
